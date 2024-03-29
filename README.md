@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamithiprudhvi" alt="jamithiprudhvi" /></a> </p>
 
-- 🌱 I’m currently learning **MLOPS**
+- 🌱 I’m currently learning **PYTHON**
 
 - 👯 I’m looking to collaborate on **cloud native projects**
 
-- 🤝 I’m looking for help with **Devops**
+- 🤝 I’m looking for help with **DevOps**
 
 - 📫 How to reach me **jamithireddyprudhvi9395@gmail.com**
 
